@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "inter",sans-serif;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+   display: flex;
+   flex-direction: column;
+    
+}
+
+:root{
+    --primary-cplor:#29335C;
+    --light-primary:#3F4F8D;
+    --lightest-color:#E9EBD5;
+    --secondary-color:#774936;
+    --light-secondary:#C08971;
+}
